@@ -1,0 +1,1 @@
+{"description":"The Worst App Idea Ever Pitched — a make.fun bounty entry: one sentence pitching the most useless app imaginable.","license":"MIT","name":"worst-app-idea-ever-pitched","scripts":{"start":"npx tsx main.ts"},"type":"module","version":"1.0.0"}
